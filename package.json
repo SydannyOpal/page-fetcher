@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SydannyOpal/page-fetcher/issues"
   },
-  "homepage": "https://github.com/SydannyOpal/page-fetcher#readme"
+  "homepage": "https://github.com/SydannyOpal/page-fetcher#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
